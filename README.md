@@ -1,5 +1,10 @@
-# 💫 About Me:
-I am working in MSC
+
+I'm a developer at [MSC](https://msc-technology.com/), where I work on routing module. Previously, I was a developer at Technosoft Corp, Chennai and SmartFinance, Chennai, India.
+
+I received my Bachelor of technology from [SHUATS](https://shuats.edu.in/), Prayagraj(formerly Allahabad), Uttar Pradesh in 2012.
+
+____________________
+Over the years, I have been working on a broad set of topics such as:
 
 
 ## 🌐 Socials:
