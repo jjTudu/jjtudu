@@ -5,6 +5,15 @@ I received my Bachelor of technology from [SHUATS](https://shuats.edu.in/), Pray
 
 ____________________
 Over the years, I have been working on a broad set of topics such as:
+* Routing of containers in shipping.
+* Gathering/ preparing the data for SAS programmers.
+* Scraping and preprocessing data for analysis.
+* Crafting desktop application using WPF.
+* Clustering locations for analysing.
+
+
+_____________________
+You may check my certifications here ![AWS Certified Machine Learning – Specialty](https://www.credly.com/earner/earned/badge/dcbea059-a406-438c-93de-e9e23b63866c)
 
 
 ## 🌐 Socials:
